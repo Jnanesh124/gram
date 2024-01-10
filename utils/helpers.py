@@ -115,7 +115,7 @@ async def force_sub(bot, message):
                                       permissions=ChatPermissions(can_send_messages=False)
                                       )
        await message.reply(f"<b>👀 ʜɪ ᴅᴇᴀʀ {message.from_user.mention}!\n\n ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ Reques Movie ɪɴ ᴛʜɪꜱ ɢʀᴏᴜᴘ\n\nFirst u join And Subscribe my YouTube channel and Backup Group\n\n subscribe Here :- https://youtube.com/@Jnentertainment.?si=-xZOdUGBD3yxLjgW\n\n👇 Join Below Group 👇 after Click Try Again Button To Request Movie 🍿</b>", 
-                       reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("✅ ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ ✅", url=f_link)],
+                       reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("✅ ᴊᴏɪɴ Group ✅", url=f_link)],
                                                           [InlineKeyboardButton("🔄 ᴛʀʏ ᴀɢᴀɪɴ 🔄", callback_data=f"checksub_{message.from_user.id}")]]))
        await message.delete()
        return False
