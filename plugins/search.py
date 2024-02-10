@@ -39,7 +39,6 @@ async def search(bot, message):
        await save_dlt_message(msg, _time)
     except:
        await asyncio.sleep(30)                                            
-       await msg.delete()
        
 
 
