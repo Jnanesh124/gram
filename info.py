@@ -4,4 +4,4 @@ BOT_TOKEN    = "6765313019:AAHKonji9_lBdTgJSMsVDbEUReloafojVtA"
 SESSION      = "BQHI4PQAZGgqa6sPu5if8Owxq_cKf_OkI-unbPc3ClwKlkVPM0vCdGLWCFIwD330Qm37uTOYQlQIGLBBZfPLvUzJ0Ga-1jIdQXGStWF3eh4xWdIvfs4XKsbOa9Jwlx6PC8qqQTqfRXOg8gBJB6DvjoXFb7Ho7CKZ0SqTZFxAqweYOTv5BLT70weIocxROWeOMzd7JtUYACtL7c6JqeFWL6Zi8_x44U__D9pmm-w7Peh325c4YVzfINaBNmGjVrH9bLZdHtem1QBaQ07gK1qPcgQEPZYj3bBujGEJf98aq0fkk1L5f2VbvOJhIfDyhQcgo79DflVcml9Hhxye-7E2TF5oe2NldwAAAABkI-HqAA"
 DATABASE_URI = "mongodb+srv://ottmovies:ottmovies@cluster0.bejrjkt.mongodb.net/?retryWrites=true&w=majority"
 LOG_CHANNEL  = -1001997863812
-ADMIN        = 5047601096
+ADMIN        = 6605647659
